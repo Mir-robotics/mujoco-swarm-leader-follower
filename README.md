@@ -11,7 +11,9 @@ onboard-camera perception, and swappable PID / MPC controllers — built on
 
 ## Demo
 
-▶️ Demo in YouTube: **[https://youtube.com/shorts/gyOKlvq-LHQ?feature=share]**
+▶️ [![Watch the demo](./results/vlcsnap-2026-07-30-08h17m20s508.png)](./preview.mp4)
+
+Demo in YouTube: **[https://youtube.com/shorts/gyOKlvq-LHQ?feature=share]**
 
 ## Overview
 
